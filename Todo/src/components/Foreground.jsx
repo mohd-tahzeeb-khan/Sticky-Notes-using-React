@@ -8,13 +8,13 @@ function Foreground() {
         // description, filesize, CloseorDownload, tagDetails
         {
             description:"Hey! Today you have to start with the New Project of React.",
-            filesize:"19mb",
+            filesize:"1MBs",
             close:false,
             tag:{isOpen:false, tagtile:"Download Now", tagColor:"green"},
         },
         {
-            description:"Hey! Today you have to start with the New Project of React.",
-            filesize:"19mb",
+            description:"Meeting tonight with Client.",
+            filesize:"3KBs",
             close:false,
             tag:{isOpen:false, tagtile:"Download Now", tagColor:"green"},
         },
